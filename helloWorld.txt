@@ -1,7 +1,3 @@
 Nononon
 Local Development
 stashing
-=========
-Help
-Still
->>>>>>>>> Temporary merge branch 2
